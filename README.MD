@@ -1,4 +1,4 @@
-### **Manual testing y toda la evidencia de la webpage DIA**
+### **Manual testing y documentación de la webpage DIA**
 
 En este reporte nos encontramos con tres carpetas principales producto del testing manual 
 
